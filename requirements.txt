@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+scikit-learn
+matplotlib
+mplfinance
+math
+datetime
+pandas_datareader
